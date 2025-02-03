@@ -1,3 +1,5 @@
+Project/ Case study in SQL
+
 We have digital music store dataset that offers comprehensive details on various aspects of the digital music store, including genres, albums, tracks, artists, customers, and invoice details. All information is neatly organized within the below respective tables:
 
 1) Artist
